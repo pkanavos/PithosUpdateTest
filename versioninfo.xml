@@ -8,7 +8,7 @@
 		<language>en</language>               
 		<item>            
 			<title>Version 0.7.20305</title>
-			<sparkle:releaseNotesLink>https://github.com/pkanavos/PithosUpdateTest/blob/master/rnotes.0.7.20305.html</sparkle:releaseNotesLink>
+			<sparkle:releaseNotesLink>https://raw.github.com/pkanavos/PithosUpdateTest/master/rnotes.0.7.20305.html</sparkle:releaseNotesLink>
 			<pubDate>Sun, 05 Mar 2012 10:21:11 +0000</pubDate>
 			<enclosure 
 				url="https://code.grnet.gr/attachments/download/970/Pithos.Setup.0.7.20305.x64.msi"
@@ -20,7 +20,7 @@
 		</item>
 		<item>            
 			<title>Version 0.7.20306</title>
-			<sparkle:releaseNotesLink>https://github.com/pkanavos/PithosUpdateTest/blob/master/rnotes.0.7.20305.html</sparkle:releaseNotesLink>
+			<sparkle:releaseNotesLink>https://raw.github.com/pkanavos/PithosUpdateTest/master/rnotes.0.7.20306.html</sparkle:releaseNotesLink>
 			<pubDate>Mon, 06 Mar 2012 10:21:11 +0000</pubDate>
 			<enclosure 
 				url="https://code.grnet.gr/attachments/download/946/Pithos.Setup.0.7.20306.x64.msi"
