@@ -8,7 +8,7 @@
 		<language>en</language>       
 		<item>            
 			<title>Version 0.7.20308</title>
-			<sparkle:releaseNotesLink>https://raw.github.com/pkanavos/PithosUpdateTest/master/rnotes.0.7.20307.html</sparkle:releaseNotesLink>
+			<sparkle:releaseNotesLink>https://raw.github.com/pkanavos/PithosUpdateTest/master/rnotes.0.7.20308.html</sparkle:releaseNotesLink>
 			<pubDate>Mon, 12 Mar 2012 23:00:00 +0200</pubDate>
 			<enclosure 
 				url="https://code.grnet.gr/attachments/download/1000/Pithos.Setup.0.7.20308.x64.msi"
