@@ -5,14 +5,14 @@
 		<title>Pithos MS Client</title>      
 		<link>https://github.com/pkanavos/PithosUpdateTest/blob/master/versioninfo.xml</link>     
 		<description></description>      
-		<language>en</language>               
+		<language>en</language>       
 		<item>            
-			<title>Version 0.7.20305</title>
-			<sparkle:releaseNotesLink>https://raw.github.com/pkanavos/PithosUpdateTest/master/rnotes.0.7.20305.html</sparkle:releaseNotesLink>
+			<title>Version 0.7.20307</title>
+			<sparkle:releaseNotesLink>https://raw.github.com/pkanavos/PithosUpdateTest/master/rnotes.0.7.20307.html</sparkle:releaseNotesLink>
 			<pubDate>Sun, 05 Mar 2012 10:21:11 +0200</pubDate>
 			<enclosure 
-				url="https://code.grnet.gr/attachments/download/983/Pithos.Setup.0.7.20305.x64.msi"
-				length="3522560" 
+				url="https://code.grnet.gr/attachments/download/993/Pithos.Setup.0.7.20307.x64.msi"
+				length="3529216" 
 				type="application/octet-stream"
 				sparkle:version="0.7.20305" 
 				sparkle:dsaSignature="kZN9lzdHa9+rHHwE92+Q/z0mlRZugTwJHQyxNdkT8ARaqbtIaJb6iQ=="
@@ -27,6 +27,18 @@
 				length="3520512" 
 				type="application/octet-stream"
 				sparkle:version="0.7.20306" 
+				sparkle:dsaSignature="kZN9lzdHa9+rHHwE92+Q/z0mlRZugTwJHQyxNdkT8ARaqbtIaJb6iQ=="
+			/>
+		</item>
+		<item>            
+			<title>Version 0.7.20305</title>
+			<sparkle:releaseNotesLink>https://raw.github.com/pkanavos/PithosUpdateTest/master/rnotes.0.7.20305.html</sparkle:releaseNotesLink>
+			<pubDate>Sun, 05 Mar 2012 10:21:11 +0200</pubDate>
+			<enclosure 
+				url="https://code.grnet.gr/attachments/download/983/Pithos.Setup.0.7.20305.x64.msi"
+				length="3522560" 
+				type="application/octet-stream"
+				sparkle:version="0.7.20305" 
 				sparkle:dsaSignature="kZN9lzdHa9+rHHwE92+Q/z0mlRZugTwJHQyxNdkT8ARaqbtIaJb6iQ=="
 			/>
 		</item>
