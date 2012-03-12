@@ -7,6 +7,18 @@
 		<description></description>      
 		<language>en</language>       
 		<item>            
+			<title>Version 0.7.20308</title>
+			<sparkle:releaseNotesLink>https://raw.github.com/pkanavos/PithosUpdateTest/master/rnotes.0.7.20307.html</sparkle:releaseNotesLink>
+			<pubDate>Mon, 12 Mar 2012 23:00:00 +0200</pubDate>
+			<enclosure 
+				url="https://code.grnet.gr/attachments/download/1000/Pithos.Setup.0.7.20308.x64.msi"
+				length="3541504" 
+				type="application/octet-stream"
+				sparkle:version="0.7.20308" 
+				sparkle:dsaSignature="kZN9lzdHa9+rHHwE92+Q/z0mlRZugTwJHQyxNdkT8ARaqbtIaJb6iQ=="
+			/>
+		</item>
+		<item>            
 			<title>Version 0.7.20307</title>
 			<sparkle:releaseNotesLink>https://raw.github.com/pkanavos/PithosUpdateTest/master/rnotes.0.7.20307.html</sparkle:releaseNotesLink>
 			<pubDate>Mon, 12 Mar 2012 17:00:00 +0200</pubDate>
