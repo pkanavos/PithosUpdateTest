@@ -23,7 +23,7 @@
 			<sparkle:releaseNotesLink>https://raw.github.com/pkanavos/PithosUpdateTest/master/rnotes.0.7.20306.html</sparkle:releaseNotesLink>
 			<pubDate>Mon, 07 Mar 2012 20:55:11 +0200</pubDate>
 			<enclosure 
-				url="https://code.grnet.gr/attachments/download/985/Pithos.Setup.0.7.20306.x64.msi"
+				url="https://code.grnet.gr/attachments/download/987/Pithos.Setup.0.7.20306.x64.msi"
 				length="3520512" 
 				type="application/octet-stream"
 				sparkle:version="0.7.20306" 
